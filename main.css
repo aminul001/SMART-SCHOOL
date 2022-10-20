@@ -97,9 +97,7 @@ li {
     height: 369px;
 }
 
-.footer-row h6,h3{
-    color: white;
-}
+
 
 .footer-row a{
     text-decoration: none;
@@ -115,3 +113,4 @@ li {
 .footer-row .footer-col{
     margin-top: 61px;
 }
+
