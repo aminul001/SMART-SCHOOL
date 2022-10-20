@@ -87,3 +87,31 @@ li {
     border-radius: 25px;
     margin-top: 30px;
 }
+
+.last-container{
+    margin-top: 103px;
+}
+
+.footer{
+    background: #282531;
+    height: 369px;
+}
+
+.footer-row h6,h3{
+    color: white;
+}
+
+.footer-row a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    margin-top: 10px;
+}
+
+.footer-container{
+    margin-top: 50px;
+}
+
+.footer-row .footer-col{
+    margin-top: 61px;
+}
